@@ -28,7 +28,7 @@ The goal is to build a robust solution that can identify and extract these data 
 ## Setup Instructions
 
 1. **Clone the Repository:**
-   git clone https://github.com/YourUsername/alu_regex-data-extraction-Gaddy01
+   git clone https://github.com/YourUsername/alu_regex-data-extraction-Gaddy01.git
 2. **Navigate to the Project Directory:**
    cd alu_regex-data-extraction-Gaddy01
 3. **Run the file using Node.js:**
