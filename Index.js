@@ -1,5 +1,3 @@
-// Regex Data Extraction - JavaScript Implementation
-
 /**
  * Validate Email Address matches examples like:
  *   - user@example.com
